@@ -4,5 +4,6 @@
 - [python](https://www.python.org/)
 - [pypresence](https://github.com/qwertyquerty/pypresence)
 
-# Authors
-- [Kriiler](https://github.com/kriiler/)
+---
+
+Author: [Kriiler](https://github.com/kriiler/)
