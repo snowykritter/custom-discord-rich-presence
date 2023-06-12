@@ -1,4 +1,5 @@
 from pypresence import Presence
+import os 
 import time
 import json
 
@@ -15,9 +16,9 @@ RPC.update(
     state=data['state'], 
     details=data['details'], 
     large_image=data['large_image'], 
-    small_image=data['small_image'], 
+    # small_image=data['small_image'], 
     large_text=data['large_text'], 
-    small_text=data['small_text'],
+    # small_text=data['small_text'],
     party_size=[data['party_size'], data['party_max']],
     buttons=[
                 {"label":data['label1'],"url":data['url1']},
